@@ -1,9 +1,17 @@
-<h3>Reading Notes for Books</h3>
+# Book Information # 
 
-This is my reading notes for *Algebraic Geometry* by R. Harshorne.
+Title: *Algebraic Geometry* 
 
-Completed: ???
+Author: Robin Hartshorne
 
-Working on: Chapter 1 Varities
+# Recent Updates #
 
-current status: (2024.12.23) prepare to start
+(2024.12.24) start writing 1.1
+
+<h3>Plans</h3>
+
+I plan to include all odd-number exercises of 1.1 before 12.26
+
+<h3>Completed</h3>
+ 
+Nothing yet.
